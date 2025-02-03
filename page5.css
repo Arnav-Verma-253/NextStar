@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+small{
+    display:block;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-bottom:100px;
+}
+#namee{
+    margin-left:580px;
+    font-size:30px;
+    margin-bottom:30px;
+
+
+}
+#pass{
+    margin-left:580px;
+    font-size:30px;
+    margin-bottom:50px;
+
+}
+button{
+    display:block;
+    text-align:center;
+    font-size:30px;
+    margin-left:700px;
+
+}
