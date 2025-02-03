@@ -1,0 +1,94 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+body{
+    background-color:cornsilk;
+}
+h1{
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    padding-bottom: 25px;
+    color:fuchsia
+}
+div{
+    text-align: left;
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 43px;
+    margin:50px;
+    margin-left:0;
+    
+}
+#middle{
+    font-size: 25px;
+    margin-right: 500px;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
+#first{
+    margin-right:500px;
+    font-size: 25px;
+    margin-left: 30px;
+    text-transform:uppercase;
+    font-style: normal;
+    text-decoration: none;
+}
+#last{
+    margin-right:0;
+    font-size: 25px;
+    text-transform: capitalize;
+    
+    font-style:normal;
+    text-decoration: none;
+}
+big{
+    text-align: left;
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 43px;
+    margin:50px;
+    margin-left:0;
+    
+}
+button{
+    font-size:30px;
+    margin-right:300px;
+}
+#last{
+    margin-right: 0;
+}
+#logical{
+    position:absolute;
+    top:350px;
+    margin-left:800px;
+    font-size:30px;
+    margin-bottom:30px;
+
+    
+
+}
+#general{
+    position:absolute;
+    top:350px;
+    margin-left:350px;
+    font-size:30px;
+    margin-bottom:30px;
+
+    
+
+}
+small{
+    position:absolute;
+    font-size:45px;
+    top:345px;
+    font-weight: bold;
+    margin-left:70px;
+    
+}
+
