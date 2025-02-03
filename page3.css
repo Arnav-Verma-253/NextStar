@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align:center;
+    color:purple;
+
+}
+big{
+    text-align:center;
+    margin-left:450px;
+    font-size: larger;
+
+
+}
+#first
+{
+    display:block;
+    text-align:center ;
+    top:10px;
+    
+    margin-left:690px;
+    font-size: larger;
+    text-decoration: none;
+    margin-bottom:30px;
+
+
+}
+#second{
+    position:absolute;
+    top:10px;
+    right:10px;
+    text-align: left;
+    
+    font-size:larger;
+    text-decoration: none;
+
+
+}
